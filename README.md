@@ -5,8 +5,8 @@ ________________________________________________________________________________
 AtliQ Hardware supplies hardwares to many clients across India. The sales director is facing challenges in tracking sales and he was not getting a complete picture of the sales happening within the country. He is interested in a dashboard through which he can track the sales to get up to date info. Thus, making data driven decisions to increase sales of the company.
 
 I have implemented a Power BI dashboard to get the sales insights.
-
-Technologies :
+____________________________________________________________________________________________________________________________________________
+**Technologies** :
 
 SQL  
 MySQL  
